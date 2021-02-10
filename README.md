@@ -14,3 +14,4 @@ this is an authentication single page app with login/register/password set and r
 You can ask also for new password for your e-mail adress. 
 For the minimal design I used Bootstrap package. 
 For the communication Firebase. 
+Some React-router functions used as well. 
